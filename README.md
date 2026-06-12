@@ -92,7 +92,6 @@ Property teams waded through messy listings and manual PDF checks. An n8n workfl
 ## 📫 Contact
 
 * **Email:** [judedivine9@gmail.com](mailto:judedivine9@gmail.com)
-* **Portfolio:** [Notion](https://www.notion.so/divautomation/AI-Automation-Sales-Engineer-5f51cfb0014083c09e2781f60dfa73fa)
 * **LinkedIn:**
 * **X:**
 
