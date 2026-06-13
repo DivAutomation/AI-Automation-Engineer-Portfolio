@@ -110,8 +110,6 @@ Tuning lives in Code nodes for n8n Cloud compatibility.
 - **Get Calendar Events:** set horizon to match slot search window
 - **Slack node:** optional and should not block workflow completion
 
-`build_workflow.py` centralizes generated workflow output and booking URL injection.
-
 ## Expected behavior
 
 - **Noise:** ignored and logged, no outbound reply
@@ -137,11 +135,3 @@ python3 build_workflow.py
 ```
 
 The output path is defined in `build_workflow.py`.
-
-## Roadmap note
-
-In this repo, `v2` means planned backlog scope in `PRD.md`, not a versioned product name.
-
-## License
-
-Add a license file before public distribution.
