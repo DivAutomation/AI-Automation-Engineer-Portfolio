@@ -1,9 +1,5 @@
 # AI Email Triage and Calendar Booking Agent
 
-One n8n workflow that triages Gmail and handles meeting replies using real calendar availability.
-
-The design goal is simple: reduce first-pass inbox work without inventing meeting times.
-
 <img width="1440" height="900" alt="Screenshot 2026-04-20 at 4 59 07 PM" src="https://github.com/user-attachments/assets/dc43c1e3-dcc5-4b36-ae0c-f701859f1764" />
 
 
