@@ -42,6 +42,12 @@ Many automation tools create a "Deal" in the CRM the moment a form is submitted.
 
 ---
 
+**Performance Metrics**
+
+- End-to-end lead flow under 3 minutes per record
+- Form submission to Slack alert under 90 seconds
+- Premature pipeline advances reduced to zero in testing via deal-stage s
+
 ## Setup
 
 1. Clone this repo
