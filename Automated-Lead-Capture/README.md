@@ -48,15 +48,3 @@ Many automation tools create a "Deal" in the CRM the moment a form is submitted.
 - Form submission to Slack alert under 90 seconds
 - Premature pipeline advances reduced to zero in testing via deal-stage s
 
-## Setup
-
-1. Clone this repo
-2. Import `workflow.json` into n8n
-3. Add credentials for Apollo, HubSpot, SerpAPI, Slack, and your LLM
-4. Activate the workflow
-5. Point your form's action URL to the webhook endpoint
-
----
-
-**Divine Jude** — AI Automation Engineer
-[LinkedIn](https://www.linkedin.com/in/divinejude/) · [Medium](https://medium.com/@Divinz)
