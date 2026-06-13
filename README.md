@@ -91,9 +91,9 @@ Property teams waded through messy listings and manual PDF checks. An n8n workfl
 
 ## 📫 Contact
 
-* **Email:** [judedivine9@gmail.com](mailto:judedivine9@gmail.com)
-* **LinkedIn:**
-* **X:**
+* **[Email](mailto:judedivine9@gmail.com)**
+* **[LinkedIn](https://www.linkedin.com/in/divinejude/)**
+* **[X](https://x.com/DivAutomation)**
 
 If you want help with invoice processing, WhatsApp ops, sales pipelines, inbox operations, or data-heavy workflows, send me a message.
 
