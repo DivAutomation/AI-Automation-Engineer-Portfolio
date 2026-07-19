@@ -34,7 +34,7 @@ AI reads invoice fields → Validation & clarity scoring
         ▼
 Field validation → Audit log lookup → Duplicate check → Approval tier
         │
-        ├── auto-approve (low risk) ──► Transform → ERP bill create
+        ├── auto-approve (low risk) ──► Transform → Zoho bill create
         ├── needs approval ──► Slack link + pending approvals sheet
         │         └── approval link approve/reject ──► resume → ERP
         └── validation fail ──► Exception queue
