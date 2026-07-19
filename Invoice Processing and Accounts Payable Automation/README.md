@@ -1,8 +1,11 @@
+<img width="1912" height="1076" alt="Screenshot 2026-07-19 at 2 07 25 AM" src="https://github.com/user-attachments/assets/2f6015f3-c289-4ab4-a72c-c991de2313e9" />
+
+
 ## Project Overview
 
-**The Problem:** AP teams spend ~40 minutes per invoice on manual reading, data entry, duplicate checks, and approval chasing. Scanned PDFs and image invoices add reading errors. High-value bills need human sign-off without losing audit history.
+**The Problem:** AP teams spend ~40 minutes per invoice on manual reading, data entry, duplicate checks, and approval chasing. Scanned PDFs and image invoices add reading errors. High-value bills need a human sign-off without losing audit history.
 
-**The Solution:** One n8n workflow watches a Google Drive inbox folder, archives each file, runs automated document reading plus AI that reads and structures invoice fields, validates fields and duplicates against a Sheets audit log, routes by amount and risk tier, and syncs approved bills to Odoo, ERPNext, or Zoho Books. Managers approve or reject via one-click approval links. Slack carries alerts.
+**The Solution:** One n8n workflow watches a Google Drive inbox folder, archives each file, runs automated document reading plus AI that reads and structures invoice fields, validates fields and duplicates against a Sheets audit log, routes by amount and risk tier, and syncs approved bills to Zoho Books. Managers approve or reject via one-click approval links. Slack carries alerts.
 
 **Technologies Used**
 
@@ -12,7 +15,7 @@
 | Intake & audit | Google Drive, Google Sheets |
 | Document reading & AI | Automated document reading, vision OCR, AI field extraction |
 | Notifications | Slack, approve/reject links |
-| Accounting sync | Odoo, ERPNext, Zoho Books (configurable) |
+| Accounting sync |Zoho Books (configurable) |
 
 ### Architecture & Workflow
 
